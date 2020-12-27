@@ -1,0 +1,69 @@
+dinsdag 11/17/2020 12:52 +01:00
+
+
+Name                   : Guest
+PrincipalSource        : Local
+LastLogon              : 
+PasswordChangeableDate : 
+PasswordLastSet        : 
+Description            : Built-in account for guest access to the computer/domain
+
+Name                   : WDAGUtilityAccount
+PrincipalSource        : Local
+LastLogon              : 
+PasswordChangeableDate : 12/11/2020 8:47:32
+PasswordLastSet        : 12/11/2020 8:47:32
+Description            : A user account managed and used by the system for Windows Defender
+                          Application Guard scenarios.
+
+Name                   : Administrator
+PrincipalSource        : Local
+LastLogon              : 17/11/2020 8:35:24
+PasswordChangeableDate : 12/11/2020 8:49:22
+PasswordLastSet        : 12/11/2020 8:49:22
+Description            : Built-in account for administering the computer/domain
+
+Name                   : DefaultAccount
+PrincipalSource        : Local
+LastLogon              : 
+PasswordChangeableDate : 
+PasswordLastSet        : 
+Description            : A user account managed by the system.
+
+
+
+dinsdag 11/17/2020 12:52 +01:00
+
+
+Name                   : Guest
+PrincipalSource        : Local
+LastLogon              : 
+PasswordChangeableDate : 
+PasswordLastSet        : 
+Description            : Built-in account for guest access to the computer/domain
+
+Name                   : WDAGUtilityAccount
+PrincipalSource        : Local
+LastLogon              : 
+PasswordChangeableDate : 12/11/2020 8:47:32
+PasswordLastSet        : 12/11/2020 8:47:32
+Description            : A user account managed and used by the system for Windows Defender
+                          Application Guard scenarios.
+
+Name                   : Administrator
+PrincipalSource        : Local
+LastLogon              : 17/11/2020 8:35:24
+PasswordChangeableDate : 12/11/2020 8:49:22
+PasswordLastSet        : 12/11/2020 8:49:22
+Description            : Built-in account for administering the computer/domain
+
+Name                   : DefaultAccount
+PrincipalSource        : Local
+LastLogon              : 
+PasswordChangeableDate : 
+PasswordLastSet        : 
+Description            : A user account managed by the system.
+
+
+
+dinsdag 11/17/2020 12:55 +01:00

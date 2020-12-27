@@ -1,0 +1,1873 @@
+maandag 11/23/2020 08:44 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SCardSvr           Smart Card                            
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RmSvc              Radio Management Service              
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  SensorService      Sensor Service                        
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  seclogon           Secondary Logon                       
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  Netman             Network Connections                   
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  Netlogon           Netlogon                              
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  msiserver          Windows Installer                     
+Stopped  PrintWorkflowUs... PrintWorkflow_32239                   
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  pla                Performance Logs & Alerts             
+Stopped  PimIndexMainten... Contact Data_32239                    
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  WbioSrvc           Windows Biometric Service             
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  WalletService      WalletService                         
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WSearch            Windows Search                        
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  wisvc              Windows Insider Service               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  vds                Virtual Disk                          
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  sppsvc             Software Protection                   
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  smphost            Microsoft Storage Spaces SMP          
+Stopped  upnphost           UPnP Device Host                      
+Stopped  UnistoreSvc_32239  User Data Storage_32239               
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UserDataSvc_32239  User Data Access_32239                
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  tapisrv            Telephony                             
+Stopped  svsvc              Spot Verifier                         
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  BthAvctpSvc        AVCTP service                         
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  cbdhsvc_32239      Clipboard User Service_32239          
+Stopped  CaptureService_... CaptureService_32239                  
+Stopped  camsvc             Capability Access Manager Service     
+Stopped  CscService         Offline Files                         
+Stopped  ConsentUxUserSv... ConsentUX_32239                       
+Stopped  COMSysApp          COM+ System Application               
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  DevicesFlowUser... DevicesFlow_32239                     
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  DeviceInstall      Device Install Service                
+Stopped  DevicePickerUse... DevicePicker_32239                    
+Stopped  Audiosrv           Windows Audio                         
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppIDSvc           Application Identity                  
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Stopped  InstallService     Microsoft Store Install Service       
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  AppMgmt            Application Management                
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  lfsvc              Geolocation Service                   
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  hidserv            Human Interface Device Service        
+Stopped  defragsvc          Optimize drives                       
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  HvHost             HV Host Service                       
+Stopped  AppVClient         Microsoft App-V Client                
+Running  TrustedInstaller   Windows Modules Installer             
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  TrkWks             Distributed Link Tracking Client      
+Running  CertPropSvc        Certificate Propagation               
+Running  WpnService         Windows Push Notifications System S...
+Running  UsoSvc             Update Orchestrator Service           
+Running  UserManager        User Manager                          
+Running  CDPSvc             Connected Devices Platform Service    
+Running  UALSVC             User Access Logging Service           
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  wuauserv           Windows Update                        
+Running  CDPUserSvc_32239   Connected Devices Platform User Ser...
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  W32Time            Windows Time                          
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  VSS                Volume Shadow Copy                    
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  Wcmsvc             Windows Connection Manager            
+Running  BFE                Base Filtering Engine                 
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  Appinfo            Application Information               
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  ProfSvc            User Profile Service                  
+Running  gpsvc              Group Policy Client                   
+Running  FontCache          Windows Font Cache Service            
+Running  iphlpsvc           IP Helper                             
+Running  PlugPlay           Plug and Play                         
+Running  Power              Power                                 
+Running  EventLog           Windows Event Log                     
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  FDResPub           Function Discovery Resource Publica...
+Running  fdPHost            Function Discovery Provider Host      
+Running  EventSystem        COM+ Event System                     
+Running  NcbService         Network Connection Broker             
+Running  LanmanWorkstation  Workstation                           
+Running  LanmanServer       Server                                
+Running  mpssvc             Windows Defender Firewall             
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  LicenseManager     Windows License Manager Service       
+Running  NlaSvc             Network Location Awareness            
+Running  nsi                Network Store Interface Service       
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  KeyIso             CNG Key Isolation                     
+Running  SamSs              Security Accounts Manager             
+Running  swprv              Microsoft Software Shadow Copy Prov...
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  CryptSvc           Cryptographic Services                
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  CoreMessagingRe... CoreMessaging                         
+Running  TermService        Remote Desktop Services               
+Running  SENS               System Event Notification Service     
+Running  Dnscache           DNS Client                            
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DsSvc              Data Sharing Service                  
+Running  Schedule           Task Scheduler                        
+Running  DPS                Diagnostic Policy Service             
+Running  Spooler            Print Spooler                         
+Running  LSM                Local Session Manager                 
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  SessionEnv         Remote Desktop Configuration          
+Running  Dhcp               DHCP Client                           
+Running  ShellHWDetection   Shell Hardware Detection              
+
+
+maandag 11/23/2020 08:51 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SCardSvr           Smart Card                            
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RmSvc              Radio Management Service              
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  SensorService      Sensor Service                        
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  seclogon           Secondary Logon                       
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  NetSetupSvc        Network Setup Service                 
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  Netman             Network Connections                   
+Stopped  msiserver          Windows Installer                     
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  Netlogon           Netlogon                              
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  PrintWorkflowUs... PrintWorkflow_33c04                   
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  pla                Performance Logs & Alerts             
+Stopped  PimIndexMainten... Contact Data_33c04                    
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  WbioSrvc           Windows Biometric Service             
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  WalletService      WalletService                         
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wuauserv           Windows Update                        
+Stopped  WSearch            Windows Search                        
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  wisvc              Windows Insider Service               
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  tapisrv            Telephony                             
+Stopped  svsvc              Spot Verifier                         
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  sppsvc             Software Protection                   
+Stopped  UserDataSvc_33c04  User Data Access_33c04                
+Stopped  upnphost           UPnP Device Host                      
+Stopped  vds                Virtual Disk                          
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UnistoreSvc_33c04  User Data Storage_33c04               
+Stopped  TrustedInstaller   Windows Modules Installer             
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  DevicesFlowUser... DevicesFlow_33c04                     
+Stopped  DevicePickerUse... DevicePicker_33c04                    
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  DeviceInstall      Device Install Service                
+Stopped  CscService         Offline Files                         
+Stopped  ConsentUxUserSv... ConsentUX_33c04                       
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  defragsvc          Optimize drives                       
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  AppXSvc            AppX Deployment Service (AppXSVC)     
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  Audiosrv           Windows Audio                         
+Stopped  AppVClient         Microsoft App-V Client                
+Stopped  AppIDSvc           Application Identity                  
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppMgmt            Application Management                
+Stopped  cbdhsvc_33c04      Clipboard User Service_33c04          
+Stopped  CaptureService_... CaptureService_33c04                  
+Stopped  COMSysApp          COM+ System Application               
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  camsvc             Capability Access Manager Service     
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  BthAvctpSvc        AVCTP service                         
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  lfsvc              Geolocation Service                   
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  HvHost             HV Host Service                       
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Stopped  InstallService     Microsoft Store Install Service       
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  hidserv            Human Interface Device Service        
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  VSS                Volume Shadow Copy                    
+Running  NlaSvc             Network Location Awareness            
+Running  CDPUserSvc_33c04   Connected Devices Platform User Ser...
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  W32Time            Windows Time                          
+Running  UserManager        User Manager                          
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  nsi                Network Store Interface Service       
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  UsoSvc             Update Orchestrator Service           
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  LanmanServer       Server                                
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  LSM                Local Session Manager                 
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  Appinfo            Application Information               
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  NcbService         Network Connection Broker             
+Running  mpssvc             Windows Defender Firewall             
+Running  LanmanWorkstation  Workstation                           
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  netprofm           Network List Service                  
+Running  LicenseManager     Windows License Manager Service       
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  BFE                Base Filtering Engine                 
+Running  CertPropSvc        Certificate Propagation               
+Running  gpsvc              Group Policy Client                   
+Running  SessionEnv         Remote Desktop Configuration          
+Running  Dnscache           DNS Client                            
+Running  SENS               System Event Notification Service     
+Running  FontCache          Windows Font Cache Service            
+Running  smphost            Microsoft Storage Spaces SMP          
+Running  ProfSvc            User Profile Service                  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  EventSystem        COM+ Event System                     
+Running  SamSs              Security Accounts Manager             
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  EventLog           Windows Event Log                     
+Running  DPS                Diagnostic Policy Service             
+Running  FDResPub           Function Discovery Resource Publica...
+Running  fdPHost            Function Discovery Provider Host      
+Running  Schedule           Task Scheduler                        
+Running  DsSvc              Data Sharing Service                  
+Running  Spooler            Print Spooler                         
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  TimeBrokerSvc      Time Broker                           
+Running  Themes             Themes                                
+Running  CryptSvc           Cryptographic Services                
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  KeyIso             CNG Key Isolation                     
+Running  iphlpsvc           IP Helper                             
+Running  CoreMessagingRe... CoreMessaging                         
+Running  UALSVC             User Access Logging Service           
+Running  StorSvc            Storage Service                       
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  PlugPlay           Plug and Play                         
+Running  Power              Power                                 
+Running  StateRepository    State Repository Service              
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  TermService        Remote Desktop Services               
+Running  SystemEventsBroker System Events Broker                  
+Running  swprv              Microsoft Software Shadow Copy Prov...
+Running  SysMain            SysMain                               
+
+
+maandag 11/23/2020 08:56 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  SCardSvr           Smart Card                            
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RmSvc              Radio Management Service              
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  SensorService      Sensor Service                        
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  seclogon           Secondary Logon                       
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  NetSetupSvc        Network Setup Service                 
+Stopped  Netman             Network Connections                   
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  Netlogon           Netlogon                              
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  msiserver          Windows Installer                     
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PrintWorkflowUs... PrintWorkflow_33c04                   
+Stopped  pla                Performance Logs & Alerts             
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  PimIndexMainten... Contact Data_33c04                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  WalletService      WalletService                         
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wuauserv           Windows Update                        
+Stopped  WSearch            Windows Search                        
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  wisvc              Windows Insider Service               
+Stopped  vds                Virtual Disk                          
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  sppsvc             Software Protection                   
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  upnphost           UPnP Device Host                      
+Stopped  UnistoreSvc_33c04  User Data Storage_33c04               
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UserDataSvc_33c04  User Data Access_33c04                
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  tapisrv            Telephony                             
+Stopped  svsvc              Spot Verifier                         
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  DevicesFlowUser... DevicesFlow_33c04                     
+Stopped  DevicePickerUse... DevicePicker_33c04                    
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  CscService         Offline Files                         
+Stopped  DeviceInstall      Device Install Service                
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  AppXSvc            AppX Deployment Service (AppXSVC)     
+Stopped  AppVClient         Microsoft App-V Client                
+Stopped  Audiosrv           Windows Audio                         
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  AppIDSvc           Application Identity                  
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppMgmt            Application Management                
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  cbdhsvc_33c04      Clipboard User Service_33c04          
+Stopped  ConsentUxUserSv... ConsentUX_33c04                       
+Stopped  COMSysApp          COM+ System Application               
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  CaptureService_... CaptureService_33c04                  
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Stopped  hidserv            Human Interface Device Service        
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  lfsvc              Geolocation Service                   
+Stopped  HvHost             HV Host Service                       
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  defragsvc          Optimize drives                       
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Stopped  InstallService     Microsoft Store Install Service       
+Running  netprofm           Network List Service                  
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  CertPropSvc        Certificate Propagation               
+Running  BthAvctpSvc        AVCTP service                         
+Running  W32Time            Windows Time                          
+Running  VSS                Volume Shadow Copy                    
+Running  UsoSvc             Update Orchestrator Service           
+Running  KeyIso             CNG Key Isolation                     
+Running  UserManager        User Manager                          
+Running  CDPUserSvc_33c04   Connected Devices Platform User Ser...
+Running  CDPSvc             Connected Devices Platform Service    
+Running  camsvc             Capability Access Manager Service     
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  mpssvc             Windows Defender Firewall             
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  LSM                Local Session Manager                 
+Running  Appinfo            Application Information               
+Running  WpnService         Windows Push Notifications System S...
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  LanmanServer       Server                                
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WbioSrvc           Windows Biometric Service             
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  NcbService         Network Connection Broker             
+Running  LicenseManager     Windows License Manager Service       
+Running  BFE                Base Filtering Engine                 
+Running  LanmanWorkstation  Workstation                           
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  gpsvc              Group Policy Client                   
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  SENS               System Event Notification Service     
+Running  ProfSvc            User Profile Service                  
+Running  Dnscache           DNS Client                            
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  PlugPlay           Plug and Play                         
+Running  Dhcp               DHCP Client                           
+Running  Power              Power                                 
+Running  SessionEnv         Remote Desktop Configuration          
+Running  DPS                Diagnostic Policy Service             
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  fdPHost            Function Discovery Provider Host      
+Running  EventSystem        COM+ Event System                     
+Running  EventLog           Windows Event Log                     
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  FontCache          Windows Font Cache Service            
+Running  Schedule           Task Scheduler                        
+Running  DsSvc              Data Sharing Service                  
+Running  FDResPub           Function Discovery Resource Publica...
+Running  SamSs              Security Accounts Manager             
+Running  smphost            Microsoft Storage Spaces SMP          
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  nsi                Network Store Interface Service       
+Running  TermService        Remote Desktop Services               
+Running  Themes             Themes                                
+Running  UALSVC             User Access Logging Service           
+Running  iphlpsvc           IP Helper                             
+Running  NlaSvc             Network Location Awareness            
+Running  TrkWks             Distributed Link Tracking Client      
+Running  TrustedInstaller   Windows Modules Installer             
+Running  CoreMessagingRe... CoreMessaging                         
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  StorSvc            Storage Service                       
+Running  StateRepository    State Repository Service              
+Running  Spooler            Print Spooler                         
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  SystemEventsBroker System Events Broker                  
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  SysMain            SysMain                               
+Running  CryptSvc           Cryptographic Services                
+Running  swprv              Microsoft Software Shadow Copy Prov...
+
+
+maandag 11/23/2020 08:57 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  SCardSvr           Smart Card                            
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RmSvc              Radio Management Service              
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  SensorService      Sensor Service                        
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  seclogon           Secondary Logon                       
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  NetSetupSvc        Network Setup Service                 
+Stopped  Netman             Network Connections                   
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  Netlogon           Netlogon                              
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  msiserver          Windows Installer                     
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PrintWorkflowUs... PrintWorkflow_33c04                   
+Stopped  pla                Performance Logs & Alerts             
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  PimIndexMainten... Contact Data_33c04                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  WalletService      WalletService                         
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wuauserv           Windows Update                        
+Stopped  WSearch            Windows Search                        
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  wisvc              Windows Insider Service               
+Stopped  vds                Virtual Disk                          
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  svsvc              Spot Verifier                         
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  sppsvc             Software Protection                   
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  upnphost           UPnP Device Host                      
+Stopped  UnistoreSvc_33c04  User Data Storage_33c04               
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UserDataSvc_33c04  User Data Access_33c04                
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  tapisrv            Telephony                             
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  TrustedInstaller   Windows Modules Installer             
+Stopped  DevicesFlowUser... DevicesFlow_33c04                     
+Stopped  DevicePickerUse... DevicePicker_33c04                    
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  CscService         Offline Files                         
+Stopped  DeviceInstall      Device Install Service                
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  AppXSvc            AppX Deployment Service (AppXSVC)     
+Stopped  AppVClient         Microsoft App-V Client                
+Stopped  Audiosrv           Windows Audio                         
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  AppIDSvc           Application Identity                  
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppMgmt            Application Management                
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  cbdhsvc_33c04      Clipboard User Service_33c04          
+Stopped  ConsentUxUserSv... ConsentUX_33c04                       
+Stopped  COMSysApp          COM+ System Application               
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  CaptureService_... CaptureService_33c04                  
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  InstallService     Microsoft Store Install Service       
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  lfsvc              Geolocation Service                   
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Stopped  hidserv            Human Interface Device Service        
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  defragsvc          Optimize drives                       
+Stopped  HvHost             HV Host Service                       
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Running  VSS                Volume Shadow Copy                    
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  CertPropSvc        Certificate Propagation               
+Running  W32Time            Windows Time                          
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  LanmanServer       Server                                
+Running  BthAvctpSvc        AVCTP service                         
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  UsoSvc             Update Orchestrator Service           
+Running  KeyIso             CNG Key Isolation                     
+Running  camsvc             Capability Access Manager Service     
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  CDPUserSvc_33c04   Connected Devices Platform User Ser...
+Running  UserManager        User Manager                          
+Running  CDPSvc             Connected Devices Platform Service    
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  Appinfo            Application Information               
+Running  mpssvc             Windows Defender Firewall             
+Running  LicenseManager     Windows License Manager Service       
+Running  LSM                Local Session Manager                 
+Running  netprofm           Network List Service                  
+Running  WbioSrvc           Windows Biometric Service             
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  LanmanWorkstation  Workstation                           
+Running  NcbService         Network Connection Broker             
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  BFE                Base Filtering Engine                 
+Running  ProfSvc            User Profile Service                  
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  Dnscache           DNS Client                            
+Running  gpsvc              Group Policy Client                   
+Running  SENS               System Event Notification Service     
+Running  Power              Power                                 
+Running  smphost            Microsoft Storage Spaces SMP          
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  SessionEnv         Remote Desktop Configuration          
+Running  Dhcp               DHCP Client                           
+Running  DPS                Diagnostic Policy Service             
+Running  EventSystem        COM+ Event System                     
+Running  fdPHost            Function Discovery Provider Host      
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  EventLog           Windows Event Log                     
+Running  Schedule           Task Scheduler                        
+Running  FontCache          Windows Font Cache Service            
+Running  DsSvc              Data Sharing Service                  
+Running  SamSs              Security Accounts Manager             
+Running  FDResPub           Function Discovery Resource Publica...
+Running  Spooler            Print Spooler                         
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  TimeBrokerSvc      Time Broker                           
+Running  Themes             Themes                                
+Running  CoreMessagingRe... CoreMessaging                         
+Running  NlaSvc             Network Location Awareness            
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  UALSVC             User Access Logging Service           
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  nsi                Network Store Interface Service       
+Running  TermService        Remote Desktop Services               
+Running  StorSvc            Storage Service                       
+Running  iphlpsvc           IP Helper                             
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  PlugPlay           Plug and Play                         
+Running  StateRepository    State Repository Service              
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  CryptSvc           Cryptographic Services                
+Running  SystemEventsBroker System Events Broker                  
+Running  swprv              Microsoft Software Shadow Copy Prov...
+Running  SysMain            SysMain                               
+
+
+maandag 11/23/2020 08:57 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  SCardSvr           Smart Card                            
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RmSvc              Radio Management Service              
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  SensorService      Sensor Service                        
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  seclogon           Secondary Logon                       
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  NetSetupSvc        Network Setup Service                 
+Stopped  Netman             Network Connections                   
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  Netlogon           Netlogon                              
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  msiserver          Windows Installer                     
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PrintWorkflowUs... PrintWorkflow_33c04                   
+Stopped  pla                Performance Logs & Alerts             
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  PimIndexMainten... Contact Data_33c04                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  WalletService      WalletService                         
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wuauserv           Windows Update                        
+Stopped  WSearch            Windows Search                        
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  wisvc              Windows Insider Service               
+Stopped  vds                Virtual Disk                          
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  svsvc              Spot Verifier                         
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  sppsvc             Software Protection                   
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  upnphost           UPnP Device Host                      
+Stopped  UnistoreSvc_33c04  User Data Storage_33c04               
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UserDataSvc_33c04  User Data Access_33c04                
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  tapisrv            Telephony                             
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  TrustedInstaller   Windows Modules Installer             
+Stopped  DevicesFlowUser... DevicesFlow_33c04                     
+Stopped  DevicePickerUse... DevicePicker_33c04                    
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  CscService         Offline Files                         
+Stopped  DeviceInstall      Device Install Service                
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  AppXSvc            AppX Deployment Service (AppXSVC)     
+Stopped  AppVClient         Microsoft App-V Client                
+Stopped  Audiosrv           Windows Audio                         
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  AppIDSvc           Application Identity                  
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppMgmt            Application Management                
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  cbdhsvc_33c04      Clipboard User Service_33c04          
+Stopped  ConsentUxUserSv... ConsentUX_33c04                       
+Stopped  COMSysApp          COM+ System Application               
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  CaptureService_... CaptureService_33c04                  
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  InstallService     Microsoft Store Install Service       
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  lfsvc              Geolocation Service                   
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Stopped  hidserv            Human Interface Device Service        
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  defragsvc          Optimize drives                       
+Stopped  HvHost             HV Host Service                       
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Running  VSS                Volume Shadow Copy                    
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  CertPropSvc        Certificate Propagation               
+Running  W32Time            Windows Time                          
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  LanmanServer       Server                                
+Running  BthAvctpSvc        AVCTP service                         
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  UsoSvc             Update Orchestrator Service           
+Running  KeyIso             CNG Key Isolation                     
+Running  camsvc             Capability Access Manager Service     
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  CDPUserSvc_33c04   Connected Devices Platform User Ser...
+Running  UserManager        User Manager                          
+Running  CDPSvc             Connected Devices Platform Service    
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  Appinfo            Application Information               
+Running  mpssvc             Windows Defender Firewall             
+Running  LicenseManager     Windows License Manager Service       
+Running  LSM                Local Session Manager                 
+Running  netprofm           Network List Service                  
+Running  WbioSrvc           Windows Biometric Service             
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  LanmanWorkstation  Workstation                           
+Running  NcbService         Network Connection Broker             
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  BFE                Base Filtering Engine                 
+Running  ProfSvc            User Profile Service                  
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  Dnscache           DNS Client                            
+Running  gpsvc              Group Policy Client                   
+Running  SENS               System Event Notification Service     
+Running  Power              Power                                 
+Running  smphost            Microsoft Storage Spaces SMP          
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  SessionEnv         Remote Desktop Configuration          
+Running  Dhcp               DHCP Client                           
+Running  DPS                Diagnostic Policy Service             
+Running  EventSystem        COM+ Event System                     
+Running  fdPHost            Function Discovery Provider Host      
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  EventLog           Windows Event Log                     
+Running  Schedule           Task Scheduler                        
+Running  FontCache          Windows Font Cache Service            
+Running  DsSvc              Data Sharing Service                  
+Running  SamSs              Security Accounts Manager             
+Running  FDResPub           Function Discovery Resource Publica...
+Running  Spooler            Print Spooler                         
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  TimeBrokerSvc      Time Broker                           
+Running  Themes             Themes                                
+Running  CoreMessagingRe... CoreMessaging                         
+Running  NlaSvc             Network Location Awareness            
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  UALSVC             User Access Logging Service           
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  nsi                Network Store Interface Service       
+Running  TermService        Remote Desktop Services               
+Running  StorSvc            Storage Service                       
+Running  iphlpsvc           IP Helper                             
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  PlugPlay           Plug and Play                         
+Running  StateRepository    State Repository Service              
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  CryptSvc           Cryptographic Services                
+Running  SystemEventsBroker System Events Broker                  
+Running  swprv              Microsoft Software Shadow Copy Prov...
+Running  SysMain            SysMain                               
+
+
+maandag 11/23/2020 08:57 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SCardSvr           Smart Card                            
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RmSvc              Radio Management Service              
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  SensorService      Sensor Service                        
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  seclogon           Secondary Logon                       
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  NetSetupSvc        Network Setup Service                 
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  Netman             Network Connections                   
+Stopped  msiserver          Windows Installer                     
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  Netlogon           Netlogon                              
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  PrintWorkflowUs... PrintWorkflow_33c04                   
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  pla                Performance Logs & Alerts             
+Stopped  PimIndexMainten... Contact Data_33c04                    
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  WbioSrvc           Windows Biometric Service             
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  WalletService      WalletService                         
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wuauserv           Windows Update                        
+Stopped  WSearch            Windows Search                        
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  wisvc              Windows Insider Service               
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  tapisrv            Telephony                             
+Stopped  svsvc              Spot Verifier                         
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  sppsvc             Software Protection                   
+Stopped  UserDataSvc_33c04  User Data Access_33c04                
+Stopped  upnphost           UPnP Device Host                      
+Stopped  vds                Virtual Disk                          
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UnistoreSvc_33c04  User Data Storage_33c04               
+Stopped  TrustedInstaller   Windows Modules Installer             
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  DevicesFlowUser... DevicesFlow_33c04                     
+Stopped  DevicePickerUse... DevicePicker_33c04                    
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  defragsvc          Optimize drives                       
+Stopped  CscService         Offline Files                         
+Stopped  DeviceInstall      Device Install Service                
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  AppXSvc            AppX Deployment Service (AppXSVC)     
+Stopped  AppVClient         Microsoft App-V Client                
+Stopped  Audiosrv           Windows Audio                         
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  AppIDSvc           Application Identity                  
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppMgmt            Application Management                
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  cbdhsvc_33c04      Clipboard User Service_33c04          
+Stopped  ConsentUxUserSv... ConsentUX_33c04                       
+Stopped  COMSysApp          COM+ System Application               
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  CaptureService_... CaptureService_33c04                  
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  HvHost             HV Host Service                       
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  lfsvc              Geolocation Service                   
+Stopped  hidserv            Human Interface Device Service        
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  InstallService     Microsoft Store Install Service       
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Running  CertPropSvc        Certificate Propagation               
+Running  W32Time            Windows Time                          
+Running  BthAvctpSvc        AVCTP service                         
+Running  VSS                Volume Shadow Copy                    
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  camsvc             Capability Access Manager Service     
+Running  CDPSvc             Connected Devices Platform Service    
+Running  NlaSvc             Network Location Awareness            
+Running  UsoSvc             Update Orchestrator Service           
+Running  CDPUserSvc_33c04   Connected Devices Platform User Ser...
+Running  UserManager        User Manager                          
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  LanmanServer       Server                                
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  LSM                Local Session Manager                 
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  Appinfo            Application Information               
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  mpssvc             Windows Defender Firewall             
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  WpnService         Windows Push Notifications System S...
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  LanmanWorkstation  Workstation                           
+Running  WdiSystemHost      Diagnostic System Host                
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  LicenseManager     Windows License Manager Service       
+Running  NcbService         Network Connection Broker             
+Running  BFE                Base Filtering Engine                 
+Running  netprofm           Network List Service                  
+Running  nsi                Network Store Interface Service       
+Running  ProfSvc            User Profile Service                  
+Running  SessionEnv         Remote Desktop Configuration          
+Running  Dnscache           DNS Client                            
+Running  SENS               System Event Notification Service     
+Running  gpsvc              Group Policy Client                   
+Running  smphost            Microsoft Storage Spaces SMP          
+Running  Spooler            Print Spooler                         
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  DPS                Diagnostic Policy Service             
+Running  EventSystem        COM+ Event System                     
+Running  SamSs              Security Accounts Manager             
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  EventLog           Windows Event Log                     
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  DsSvc              Data Sharing Service                  
+Running  FontCache          Windows Font Cache Service            
+Running  Schedule           Task Scheduler                        
+Running  fdPHost            Function Discovery Provider Host      
+Running  FDResPub           Function Discovery Resource Publica...
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  TimeBrokerSvc      Time Broker                           
+Running  Themes             Themes                                
+Running  CryptSvc           Cryptographic Services                
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  UALSVC             User Access Logging Service           
+Running  CoreMessagingRe... CoreMessaging                         
+Running  KeyIso             CNG Key Isolation                     
+Running  TermService        Remote Desktop Services               
+Running  StorSvc            Storage Service                       
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  StateRepository    State Repository Service              
+Running  Power              Power                                 
+Running  PlugPlay           Plug and Play                         
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  iphlpsvc           IP Helper                             
+Running  SystemEventsBroker System Events Broker                  
+Running  swprv              Microsoft Software Shadow Copy Prov...
+Running  SysMain            SysMain                               
+
+
+maandag 11/23/2020 08:58 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SCardSvr           Smart Card                            
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RmSvc              Radio Management Service              
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  SensorService      Sensor Service                        
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  seclogon           Secondary Logon                       
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  NetSetupSvc        Network Setup Service                 
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  Netman             Network Connections                   
+Stopped  msiserver          Windows Installer                     
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  Netlogon           Netlogon                              
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PrintWorkflowUs... PrintWorkflow_32239                   
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  PimIndexMainten... Contact Data_32239                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  pla                Performance Logs & Alerts             
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  WbioSrvc           Windows Biometric Service             
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  WalletService      WalletService                         
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wuauserv           Windows Update                        
+Stopped  WSearch            Windows Search                        
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  wisvc              Windows Insider Service               
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  svsvc              Spot Verifier                         
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  smphost            Microsoft Storage Spaces SMP          
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  sppsvc             Software Protection                   
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  tapisrv            Telephony                             
+Stopped  UserDataSvc_32239  User Data Access_32239                
+Stopped  upnphost           UPnP Device Host                      
+Stopped  vds                Virtual Disk                          
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UnistoreSvc_32239  User Data Storage_32239               
+Stopped  TrustedInstaller   Windows Modules Installer             
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  DevicesFlowUser... DevicesFlow_32239                     
+Stopped  DevicePickerUse... DevicePicker_32239                    
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  DeviceInstall      Device Install Service                
+Stopped  CscService         Offline Files                         
+Stopped  ConsentUxUserSv... ConsentUX_32239                       
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  defragsvc          Optimize drives                       
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  AppXSvc            AppX Deployment Service (AppXSVC)     
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  Audiosrv           Windows Audio                         
+Stopped  AppVClient         Microsoft App-V Client                
+Stopped  AppIDSvc           Application Identity                  
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppMgmt            Application Management                
+Stopped  cbdhsvc_32239      Clipboard User Service_32239          
+Stopped  CaptureService_... CaptureService_32239                  
+Stopped  COMSysApp          COM+ System Application               
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  camsvc             Capability Access Manager Service     
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  BthAvctpSvc        AVCTP service                         
+Stopped  HvHost             HV Host Service                       
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  lfsvc              Geolocation Service                   
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  hidserv            Human Interface Device Service        
+Stopped  InstallService     Microsoft Store Install Service       
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  NlaSvc             Network Location Awareness            
+Running  W32Time            Windows Time                          
+Running  VSS                Volume Shadow Copy                    
+Running  LanmanServer       Server                                
+Running  CDPSvc             Connected Devices Platform Service    
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  UsoSvc             Update Orchestrator Service           
+Running  CDPUserSvc_32239   Connected Devices Platform User Ser...
+Running  UserManager        User Manager                          
+Running  nsi                Network Store Interface Service       
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  LSM                Local Session Manager                 
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  Appinfo            Application Information               
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  NcbService         Network Connection Broker             
+Running  Wcmsvc             Windows Connection Manager            
+Running  mpssvc             Windows Defender Firewall             
+Running  LanmanWorkstation  Workstation                           
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  WdiSystemHost      Diagnostic System Host                
+Running  netprofm           Network List Service                  
+Running  LicenseManager     Windows License Manager Service       
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  BFE                Base Filtering Engine                 
+Running  gpsvc              Group Policy Client                   
+Running  SessionEnv         Remote Desktop Configuration          
+Running  Dnscache           DNS Client                            
+Running  SENS               System Event Notification Service     
+Running  FontCache          Windows Font Cache Service            
+Running  ProfSvc            User Profile Service                  
+Running  Spooler            Print Spooler                         
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  EventSystem        COM+ Event System                     
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  SamSs              Security Accounts Manager             
+Running  EventLog           Windows Event Log                     
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  FDResPub           Function Discovery Resource Publica...
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  Schedule           Task Scheduler                        
+Running  fdPHost            Function Discovery Provider Host      
+Running  Power              Power                                 
+Running  TrkWks             Distributed Link Tracking Client      
+Running  CoreMessagingRe... CoreMessaging                         
+Running  TokenBroker        Web Account Manager                   
+Running  CryptSvc           Cryptographic Services                
+Running  TimeBrokerSvc      Time Broker                           
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  CertPropSvc        Certificate Propagation               
+Running  KeyIso             CNG Key Isolation                     
+Running  iphlpsvc           IP Helper                             
+Running  UALSVC             User Access Logging Service           
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  swprv              Microsoft Software Shadow Copy Prov...
+Running  StorSvc            Storage Service                       
+Running  StateRepository    State Repository Service              
+Running  PlugPlay           Plug and Play                         
+Running  TermService        Remote Desktop Services               
+Running  Themes             Themes                                
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+
+
+maandag 11/23/2020 09:01 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SCardSvr           Smart Card                            
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RmSvc              Radio Management Service              
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  SensorService      Sensor Service                        
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  seclogon           Secondary Logon                       
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  NetSetupSvc        Network Setup Service                 
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  Netman             Network Connections                   
+Stopped  msiserver          Windows Installer                     
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  Netlogon           Netlogon                              
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  PrintWorkflowUs... PrintWorkflow_32239                   
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  pla                Performance Logs & Alerts             
+Stopped  PimIndexMainten... Contact Data_32239                    
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  WbioSrvc           Windows Biometric Service             
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  WalletService      WalletService                         
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wuauserv           Windows Update                        
+Stopped  WSearch            Windows Search                        
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  wisvc              Windows Insider Service               
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  svsvc              Spot Verifier                         
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  smphost            Microsoft Storage Spaces SMP          
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  sppsvc             Software Protection                   
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  UserDataSvc_32239  User Data Access_32239                
+Stopped  upnphost           UPnP Device Host                      
+Stopped  vds                Virtual Disk                          
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UnistoreSvc_32239  User Data Storage_32239               
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  tapisrv            Telephony                             
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  DevicesFlowUser... DevicesFlow_32239                     
+Stopped  DevicePickerUse... DevicePicker_32239                    
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  DeviceInstall      Device Install Service                
+Stopped  CscService         Offline Files                         
+Stopped  ConsentUxUserSv... ConsentUX_32239                       
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  AppXSvc            AppX Deployment Service (AppXSVC)     
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  Audiosrv           Windows Audio                         
+Stopped  AppVClient         Microsoft App-V Client                
+Stopped  AppIDSvc           Application Identity                  
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppMgmt            Application Management                
+Stopped  cbdhsvc_32239      Clipboard User Service_32239          
+Stopped  CaptureService_... CaptureService_32239                  
+Stopped  COMSysApp          COM+ System Application               
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  camsvc             Capability Access Manager Service     
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  BthAvctpSvc        AVCTP service                         
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  hidserv            Human Interface Device Service        
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  lfsvc              Geolocation Service                   
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Stopped  InstallService     Microsoft Store Install Service       
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  defragsvc          Optimize drives                       
+Stopped  HvHost             HV Host Service                       
+Running  UsoSvc             Update Orchestrator Service           
+Running  VSS                Volume Shadow Copy                    
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  CDPUserSvc_32239   Connected Devices Platform User Ser...
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  W32Time            Windows Time                          
+Running  UserManager        User Manager                          
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  nsi                Network Store Interface Service       
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  NlaSvc             Network Location Awareness            
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  LanmanServer       Server                                
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  LSM                Local Session Manager                 
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  Appinfo            Application Information               
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  NcbService         Network Connection Broker             
+Running  LanmanWorkstation  Workstation                           
+Running  mpssvc             Windows Defender Firewall             
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  netprofm           Network List Service                  
+Running  LicenseManager     Windows License Manager Service       
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  BFE                Base Filtering Engine                 
+Running  CertPropSvc        Certificate Propagation               
+Running  gpsvc              Group Policy Client                   
+Running  SessionEnv         Remote Desktop Configuration          
+Running  Dnscache           DNS Client                            
+Running  SENS               System Event Notification Service     
+Running  FontCache          Windows Font Cache Service            
+Running  ProfSvc            User Profile Service                  
+Running  Spooler            Print Spooler                         
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  EventSystem        COM+ Event System                     
+Running  SamSs              Security Accounts Manager             
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  EventLog           Windows Event Log                     
+Running  DPS                Diagnostic Policy Service             
+Running  FDResPub           Function Discovery Resource Publica...
+Running  fdPHost            Function Discovery Provider Host      
+Running  Schedule           Task Scheduler                        
+Running  DsSvc              Data Sharing Service                  
+Running  Power              Power                                 
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  TimeBrokerSvc      Time Broker                           
+Running  Themes             Themes                                
+Running  CoreMessagingRe... CoreMessaging                         
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  KeyIso             CNG Key Isolation                     
+Running  iphlpsvc           IP Helper                             
+Running  TrustedInstaller   Windows Modules Installer             
+Running  UALSVC             User Access Logging Service           
+Running  StorSvc            Storage Service                       
+Running  swprv              Microsoft Software Shadow Copy Prov...
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  PlugPlay           Plug and Play                         
+Running  StateRepository    State Repository Service              
+Running  CryptSvc           Cryptographic Services                
+Running  TermService        Remote Desktop Services               
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+
+
+maandag 11/23/2020 09:04 +01:00
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Stopped  sacsvr             Special Administration Console Helper 
+Stopped  RSoPProv           Resultant Set of Policy Provider      
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service 
+Stopped  SCardSvr           Smart Card                            
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator   
+Stopped  RemoteAccess       Routing and Remote Access             
+Stopped  RasMan             Remote Access Connection Manager      
+Stopped  RmSvc              Radio Management Service              
+Stopped  RemoteRegistry     Remote Registry                       
+Stopped  SCPolicySvc        Smart Card Removal Policy             
+Stopped  SensrSvc           Sensor Monitoring Service             
+Stopped  SensorService      Sensor Service                        
+Stopped  SharedAccess       Internet Connection Sharing (ICS)     
+Stopped  SgrmBroker         System Guard Runtime Monitor Broker   
+Stopped  SensorDataService  Sensor Data Service                   
+Stopped  SecurityHealthS... Windows Security Service              
+Stopped  seclogon           Secondary Logon                       
+Stopped  Sense              Windows Defender Advanced Threat Pr...
+Stopped  SEMgrSvc           Payments and NFC/SE Manager           
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service          
+Stopped  NetSetupSvc        Network Setup Service                 
+Stopped  NgcSvc             Microsoft Passport                    
+Stopped  NgcCtnrSvc         Microsoft Passport Container          
+Stopped  Netman             Network Connections                   
+Stopped  msiserver          Windows Installer                     
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service     
+Stopped  Netlogon           Netlogon                              
+Stopped  NcaSvc             Network Connectivity Assistant        
+Stopped  PerfHost           Performance Counter DLL Host          
+Stopped  PushToInstall      Windows PushToInstall Service         
+Stopped  PrintWorkflowUs... PrintWorkflow_32239                   
+Stopped  RasAuto            Remote Access Auto Connection Manager 
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  PrintNotify        Printer Extensions and Notifications  
+Stopped  PimIndexMainten... Contact Data_32239                    
+Stopped  PhoneSvc           Phone Service                         
+Stopped  PolicyAgent        IPsec Policy Agent                    
+Stopped  pla                Performance Logs & Alerts             
+Stopped  shpamsvc           Shared PC Account Manager             
+Stopped  WdiSystemHost      Diagnostic System Host                
+Stopped  WdiServiceHost     Diagnostic Service Host               
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  Wecsvc             Windows Event Collector               
+Stopped  WbioSrvc           Windows Biometric Service             
+Stopped  WaaSMedicSvc       Windows Update Medic Service          
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service     
+Stopped  WarpJITSvc         WarpJITSvc                            
+Stopped  WalletService      WalletService                         
+Stopped  wercplsupport      Problem Reports and Solutions Contr...
+Stopped  WPDBusEnum         Portable Device Enumerator Service    
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  wuauserv           Windows Update                        
+Stopped  WSearch            Windows Search                        
+Stopped  wmiApSrv           WMI Performance Adapter               
+Stopped  WiaRpc             Still Image Acquisition Events        
+Stopped  WerSvc             Windows Error Reporting Service       
+Stopped  wlidsvc            Microsoft Account Sign-in Assistant   
+Stopped  wisvc              Windows Insider Service               
+Stopped  stisvc             Windows Image Acquisition (WIA)       
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Stopped  tapisrv            Telephony                             
+Stopped  svsvc              Spot Verifier                         
+Stopped  ssh-agent          OpenSSH Authentication Agent          
+Stopped  SNMPTRAP           SNMP Trap                             
+Stopped  smphost            Microsoft Storage Spaces SMP          
+Stopped  SSDPSRV            SSDP Discovery                        
+Stopped  sppsvc             Software Protection                   
+Stopped  TieringEngineSe... Storage Tiers Management              
+Stopped  VaultSvc           Credential Manager                    
+Stopped  UserDataSvc_32239  User Data Access_32239                
+Stopped  vmicguestinterface Hyper-V Guest Service Interface       
+Stopped  vds                Virtual Disk                          
+Stopped  upnphost           UPnP Device Host                      
+Stopped  tzautoupdate       Auto Time Zone Updater                
+Stopped  TrustedInstaller   Windows Modules Installer             
+Stopped  UnistoreSvc_32239  User Data Storage_32239               
+Stopped  UevAgentService    User Experience Virtualization Service
+Stopped  Eaphost            Extensible Authentication Protocol    
+Stopped  EFS                Encrypting File System (EFS)          
+Stopped  bthserv            Bluetooth Support Service             
+Stopped  camsvc             Capability Access Manager Service     
+Stopped  DoSvc              Delivery Optimization                 
+Stopped  dot3svc            Wired AutoConfig                      
+Stopped  DsmSvc             Device Setup Manager                  
+Stopped  BITS               Background Intelligent Transfer Ser...
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)          
+Stopped  FrameServer        Windows Camera Frame Server           
+Stopped  BTAGService        Bluetooth Audio Gateway Service       
+Stopped  embeddedmode       Embedded Mode                         
+Stopped  EntAppSvc          Enterprise App Management Service     
+Stopped  BthAvctpSvc        AVCTP service                         
+Stopped  CaptureService_... CaptureService_32239                  
+Stopped  defragsvc          Optimize drives                       
+Stopped  cbdhsvc_32239      Clipboard User Service_32239          
+Stopped  DeviceAssociati... Device Association Service            
+Stopped  ClipSVC            Client License Service (ClipSVC)      
+Stopped  ConsentUxUserSv... ConsentUX_32239                       
+Stopped  CscService         Offline Files                         
+Stopped  COMSysApp          COM+ System Application               
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service  
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Stopped  DevQueryBroker     DevQuery Background Discovery Broker  
+Stopped  DeviceInstall      Device Install Service                
+Stopped  DevicePickerUse... DevicePicker_32239                    
+Stopped  DevicesFlowUser... DevicesFlow_32239                     
+Stopped  KPSSVC             KDC Proxy Server service (KPS)        
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Stopped  AppVClient         Microsoft App-V Client                
+Stopped  InstallService     Microsoft Store Install Service       
+Stopped  MapsBroker         Downloaded Maps Manager               
+Stopped  ALG                Application Layer Gateway Service     
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper  
+Stopped  lfsvc              Geolocation Service                   
+Stopped  AppIDSvc           Application Identity                  
+Stopped  AppReadiness       App Readiness                         
+Stopped  AppMgmt            Application Management                
+Stopped  lmhosts            TCP/IP NetBIOS Helper                 
+Stopped  Audiosrv           Windows Audio                         
+Stopped  HvHost             HV Host Service                       
+Stopped  AudioEndpointBu... Windows Audio Endpoint Builder        
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc                       
+Stopped  hidserv            Human Interface Device Service        
+Stopped  AJRouter           AllJoyn Router Service                
+Stopped  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Stopped  AppXSvc            AppX Deployment Service (AppXSVC)     
+Stopped  icssvc             Windows Mobile Hotspot Service        
+Running  MSDTC              Distributed Transaction Coordinator   
+Running  UALSVC             User Access Logging Service           
+Running  vmicheartbeat      Hyper-V Heartbeat Service             
+Running  CDPUserSvc_32239   Connected Devices Platform User Ser...
+Running  CoreMessagingRe... CoreMessaging                         
+Running  UsoSvc             Update Orchestrator Service           
+Running  CertPropSvc        Certificate Propagation               
+Running  UserManager        User Manager                          
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  CDPSvc             Connected Devices Platform Service    
+Running  UmRdpService       Remote Desktop Services UserMode Po...
+Running  WpnService         Windows Push Notifications System S...
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  WinDefend          Windows Defender Antivirus Service    
+Running  W32Time            Windows Time                          
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WdNisSvc           Windows Defender Antivirus Network ...
+Running  BFE                Base Filtering Engine                 
+Running  Wcmsvc             Windows Connection Manager            
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Running  vmicshutdown       Hyper-V Guest Shutdown Service        
+Running  Appinfo            Application Information               
+Running  vmickvpexchange    Hyper-V Data Exchange Service         
+Running  vmicvss            Hyper-V Volume Shadow Copy Requestor  
+Running  VSS                Volume Shadow Copy                    
+Running  vmictimesync       Hyper-V Time Synchronization Service  
+Running  WinRM              Windows Remote Management (WS-Manag...
+Running  gpsvc              Group Policy Client                   
+Running  FontCache          Windows Font Cache Service            
+Running  ProfSvc            User Profile Service                  
+Running  PlugPlay           Plug and Play                         
+Running  Power              Power                                 
+Running  FDResPub           Function Discovery Resource Publica...
+Running  EventSystem        COM+ Event System                     
+Running  EventLog           Windows Event Log                     
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  fdPHost            Function Discovery Provider Host      
+Running  iphlpsvc           IP Helper                             
+Running  netprofm           Network List Service                  
+Running  LicenseManager     Windows License Manager Service       
+Running  NcbService         Network Connection Broker             
+Running  mpssvc             Windows Defender Firewall             
+Running  LSM                Local Session Manager                 
+Running  LanmanWorkstation  Workstation                           
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  KeyIso             CNG Key Isolation                     
+Running  nsi                Network Store Interface Service       
+Running  LanmanServer       Server                                
+Running  NlaSvc             Network Location Awareness            
+Running  SamSs              Security Accounts Manager             
+Running  TabletInputService Touch Keyboard and Handwriting Pane...
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  SystemEventsBroker System Events Broker                  
+Running  swprv              Microsoft Software Shadow Copy Prov...
+Running  SysMain            SysMain                               
+Running  TermService        Remote Desktop Services               
+Running  TrkWks             Distributed Link Tracking Client      
+Running  CryptSvc           Cryptographic Services                
+Running  TokenBroker        Web Account Manager                   
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  StorSvc            Storage Service                       
+Running  DPS                Diagnostic Policy Service             
+Running  Dnscache           DNS Client                            
+Running  SENS               System Event Notification Service     
+Running  Schedule           Task Scheduler                        
+Running  DsSvc              Data Sharing Service                  
+Running  SessionEnv         Remote Desktop Configuration          
+Running  Spooler            Print Spooler                         
+Running  StateRepository    State Repository Service              
+Running  Dhcp               DHCP Client                           
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  DiagTrack          Connected User Experiences and Tele...
+
+
+maandag 11/23/2020 09:16 +01:00
